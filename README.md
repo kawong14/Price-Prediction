@@ -2,7 +2,7 @@
 
 
 ## Objective:  
-This repository serves as a base model for predicting the closing price of a publically traded equity.   I believe every model you are creating the first step should be to start off with a simple model then expand based off that.  Every quantitative model should have different inputs based on the correlations to it.  
+This repository serves as a base model for predicting the closing price of a publicly traded equity.   I believe every model you are creating the first step should be to start off with a simple model then expand based off that.  Every quantitative model should have different inputs based on the correlations to it.  
 
 For example:
 * John Deere stock would likely correlate to commodity prices (Wheat, Corn, Soybeans, etc.)
