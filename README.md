@@ -2,7 +2,7 @@
 
 
 ## Objective:  
-This repository serves as a base model for predicting the closing price of a publicly traded equity.   I believe every model you are creating the first step should be to start off with a simple model then expand based off that.  Every quantitative model should have different inputs based on the correlations to it.  
+This repository serves as a base model for predicting the closing price of a publicly traded equity.   I believe every model you are create the first step should be to start off with a simple model then expand based off that.  Every quantitative model should have different inputs based on the correlations to it.  
 
 For example:
 * John Deere stock would likely correlate to commodity prices (Wheat, Corn, Soybeans, etc.)
@@ -22,12 +22,13 @@ I also made this program using xgboost (a known algorithm for its speed and perf
 * Average True Range: measure of volatility
 * Exponential Moving Average
 
+## Feature Importance:
+![picture](Base_Model_Feature_Importance.png)
 
 ## Results from a sample company (Netflix): no unique features added
 *  It should be noted that stocks with a higher beta will likely need more inputs to correctly predict the price
-
 ![picture](BaseModel_Results.png)
 
-## Feature Importance:
-![picture](Base_Model_Feature_Importance.png)
+## After some features were added to the Netflix model
+![picture](nflx_model_updated.png)
 
