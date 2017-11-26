@@ -21,3 +21,10 @@ I also made this program using xgboost (a known algorithm for its speed and perf
 * ADX: determine whether a market is in a trending or trading phase.  It measures the degree of trend or direction in the market
 * Average True Range: measure of volatility
 * Exponential Moving Average
+
+
+## Results from a sample company (Netflix): no unique features added
+![picture](BaseModel_Results.png)
+
+## Feature Importance:
+![picture](Base_Model_Feature_Importance.png)
