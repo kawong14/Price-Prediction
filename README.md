@@ -25,10 +25,10 @@ I also made this program using xgboost (a known algorithm for its speed and perf
 ## Feature Importance:
 ![picture](Base_Model_Feature_Importance.png)
 
-## Results from a sample company (Netflix): no unique features added
+## Results From A Sample Company (Netflix): No Unique Features Added
 *  It should be noted that stocks with a higher beta are more difficult to predict based off the volatility 
 ![picture](BaseModel_Results.png)
 
-## After some features were added to the Netflix model
+## After Some Features Were Added To The Netflix Model:
 ![picture](nflx_model_updated.png)
 
