@@ -5,7 +5,7 @@
 This repository serves as a base model for predicting the closing price of a publicly traded equity.   The first step of every model you create should start with a simple model then expand based off that.  Every quantitative model should have different inputs based on the correlations to it.  
 
 For example:
-* John Deere stock would correlate to commodity prices (Wheat, Corn, Soybeans, etc.)
+* John Deere stock would correlate to commodity prices (wheat, corn, soybeans, etc.)
 * Bank stocks would correlate with their respective countries' economy, interest rates, employment rate, etc.
 
 I also made this program using xgboost (a known algorithm for its speed and performance).  For those who don't know, xgboost is an algorithm, which continually places at the top of Kaggle (data science competitions).  Rather than use a neural network to start off a new quantitative model, I would instead use xgboost to look at new variables first because of the speed.  
