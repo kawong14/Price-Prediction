@@ -26,7 +26,7 @@ I also made this program using xgboost (a known algorithm for its speed and perf
 ![picture](Base_Model_Feature_Importance.png)
 
 ## Results From A Sample Company (Netflix): No Unique Features Added
-*  It should be noted that stocks with a higher beta are more difficult to predict based off the volatility 
+*  It should be noted that stocks with a higher beta are more difficult to predict based on the volatility 
 ![picture](BaseModel_Results.png)
 
 ## After Some Features Were Added To The Netflix Model:
