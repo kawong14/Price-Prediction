@@ -13,7 +13,7 @@ I also made this program using xgboost (a known algorithm for its speed and perf
 ## How It Works:
 * A number of inputs are put into the model with the target variable being the closing price
 * As the inputs include variables such as the high and low of daily stock prices, these inputs would not be known until the end of the day so I set the target variable to be seven days into the future
-* Note: I didn't add macroeconomic indicators to this base model because I want the code to be easily adapted to predicting commodities or indexes. 
+* Note: Macroeconomic indicators were not included in this base model so the code can be adapted to predict commodity or index prices. 
 
 ## Technical Indicators:
 * MACD: Moving Average Convergence/Divergence Oscillator, a momentum indicator
