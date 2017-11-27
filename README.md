@@ -8,7 +8,7 @@ For example:
 * John Deere stock would correlate to commodity prices (wheat, corn, soybeans, etc.)
 * Bank stocks would correlate with their respective countries' economy, interest rates, employment rate, etc.
 
-I also made this program using xgboost (a known algorithm for its speed and performance).  For those who don't know, xgboost is an algorithm, which continually places at the top of Kaggle (data science competitions).  Rather than use a neural network to start off a new quantitative model, I would instead use xgboost to look at new variables first because of the speed.  
+This program was created through the use of xgboost (a known algorithm for its speed and performance).  For those who don't know, xgboost is an algorithm, which continually places at the top of Kaggle (data science competitions).  Rather than use a neural network to start off a new quantitative model, xgboost is used to look at new variables first because of the speed.  
 
 ## How It Works:
 * A number of inputs are put into the model with the target variable being the closing price
